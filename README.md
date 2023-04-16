@@ -1,4 +1,4 @@
-# Social_Media_Usage_In_India---RA2011026010003
+# Social Media Usage In India
 
 ## Welcome to the Data Visualization Project of INFORMATION VISUALIZATION - 18CSC301J
 ### <br>1. We Have created the visualization in TABLEAU WORKBOOK</br>
